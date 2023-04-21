@@ -1,0 +1,11 @@
+{
+  "name": "xxx",
+  "version": "1.3.0-SNAPSHOT", //this will be updated +1
+  "scripts": {
+    
+  },
+  "private": true,
+  "dependencies": {
+
+  }
+}
